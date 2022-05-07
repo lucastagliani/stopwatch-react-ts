@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import StopWatch from './components/StopWatch';
+import StopWatch from './features/stop-watch/StopWatch';
 
 function App() {
   return (
